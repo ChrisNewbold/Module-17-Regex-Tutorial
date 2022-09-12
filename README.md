@@ -41,7 +41,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Finished Product
 
-[click here to see the GitGist finished documentation](https://gist.github.com/ChrisNewbold/6d8f5fd1147372ad9c182d88925e4779/edit)
+[click here](https://gist.github.com/ChrisNewbold/6d8f5fd1147372ad9c182d88925e4779) to see the GitGist finished documentation
 
 ## Installation
 
